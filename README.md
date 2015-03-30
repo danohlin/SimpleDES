@@ -2,11 +2,16 @@
 mycipher.java
 
 
-Dan Ohlin and Stefan Moore
-Class: TCN 5080 Secure Telecom Trans
+Dan Ohlin and Stefan Moore 
+
+Class: TCN 5080 Secure Telecom Trans 
+
 Fall 2014
+
 Dr. Pan
+
 Project 1
+
 September 6, 2014
 
 
